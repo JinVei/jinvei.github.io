@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "多集群混合部署"
+title: "K8S 多集群混合部署"
 date: 2025-12-31
+tags:
+  - k8s
+  - openshift
+  - cloudnative
 ---
 
 ## K8S 多集群混合部署架构
